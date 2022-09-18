@@ -4,7 +4,7 @@ import telebot
 import re
 import requests
 import json
-token = '5732460800:AAEA5WzVCDoKihEWYrLYmquYfZEmO5zVHCM'
+token = 'pasteyourbottokenkeyhere!'
 bot = telebot.TeleBot(token)
 message_textpaus=''
 message = ''
